@@ -25,7 +25,7 @@ const Login=()=> {
           color="blue-gray"
           className="mb-4 !text-3xl lg:text-4xl"
         >
-        Login Simplified
+        Login Simple
         </Typography>
         <Typography className="!text-gray-600 text-[18px] font-normal md:max-w-sm">
           Enjoy quick and secure access to your accounts on various 
